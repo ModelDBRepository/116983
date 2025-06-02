@@ -25,14 +25,14 @@ and run the simulation hoc file with the command
 
 ### Under Windows systems:
 
-To compile the mod files use the "mknrndll" command.
+To compile the mod files use the "mknrndll" command.  
 A double click on the simulation file
 `theta.hoc`
 will open the simulation window.
 
 ### Under MAC OS X:
 
-Drag and drop the extracted theta folder to the mknrndll icon.
+Drag and drop the extracted theta folder to the mknrndll icon.  
 Drag and drop the mosinit.hoc file to the nrngui icon
 
 michele.migliore@pa.ibf.cnr.it
